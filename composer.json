@@ -1,0 +1,15 @@
+{
+    "name": "openmage/module-m1-default-themes",
+    "description": "Old M1 default themes for backward compatibility.",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Fabrizio Balliano",
+            "homepage":"https://github.com/fballiano"
+        }
+    ]
+}
