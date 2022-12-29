@@ -1,5 +1,5 @@
 {
-    "name": "openmage/module-m1-default-themes",
+    "name": "openmage/legacy-frontend-themes",
     "description": "Old M1 default themes for backward compatibility.",
     "license": "OSL-3.0",
     "type": "magento-module",
