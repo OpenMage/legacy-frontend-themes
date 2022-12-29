@@ -5,11 +5,5 @@
     "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
-    },
-    "authors":[
-        {
-            "name":"Fabrizio Balliano",
-            "homepage":"https://github.com/fballiano"
-        }
-    ]
+    }
 }
