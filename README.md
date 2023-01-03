@@ -6,7 +6,9 @@ Please remember that, since symlinks are not allowed in the themes folder struct
 
 ```
 "extra": {
-    "magento-deploystrategy": "copy"
+    "magento-deploystrategy-overwrite": {
+        "openmage/legacy-frontend-themes": "copy"
+    },
 }
 ```
 
